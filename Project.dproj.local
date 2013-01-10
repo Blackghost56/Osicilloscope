@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.921,C:\Users\Valentina\Desktop\ВУЗ\КТ\Курсач\Project1.dproj=C:\Users\Valentina\Documents\RAD Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.815,C:\Users\Valentina\Desktop\ВУЗ\КТ\Курсач\Unit1.dfm=C:\Users\Valentina\Documents\RAD Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.913,C:\Users\Valentina\Desktop\ВУЗ\КТ\Курсачь 2\Project.dproj=C:\Users\Valentina\Desktop\ВУЗ\КТ\Курсач\Project1.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.815,C:\Users\Valentina\Desktop\ВУЗ\КТ\Курсач\Unit1.pas=C:\Users\Valentina\Documents\RAD Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.544,=C:\Users\Valentina\Documents\RAD Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.913,C:\Users\Valentina\Desktop\ВУЗ\КТ\Курсовая работа Цветков\Project.dproj=C:\Users\Valentina\Desktop\ВУЗ\КТ\Курсачь 2\Project.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.373,C:\Users\Valentina\Desktop\ВУЗ\КТ\Курсовая работа Цветков\Oscillograph.dfm=C:\Users\Valentina\Desktop\ВУЗ\КТ\Курсач\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.348,C:\Users\Valentina\Desktop\ВУЗ\КТ\Курсовая работа Цветков\Oscillograph.pas=C:\Users\Valentina\Desktop\ВУЗ\КТ\Курсач\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.544,C:\Users\Valentina\Desktop\ВУЗ\КТ\Курсовая работа Цветков\Project.dproj=C:\Users\Valentina\Desktop\ВУЗ\КТ\Курсовая работа Цветков\Project.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
